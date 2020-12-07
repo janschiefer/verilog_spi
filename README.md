@@ -1,4 +1,4 @@
-## verilog_spi - A simple verilog implementation of the SPI protocol.
+# verilog_spi - A simple verilog implementation of the SPI protocol.
 
 I wanted to learn verilog, so I created an own SPI implementation.
 
@@ -19,7 +19,7 @@ Tested on Lattice ICE40UP5k.
 Makefile builds bitstream for WebFPGA with yosys, nextpnr, icepack and compress-bitstream (from WebFPGA toolchain).
 Extremely easy to modify for other FPGAs.
 
-# Usage:
+## Usage:
 
 Include these files in your own project:
 * 	spi_module.v
