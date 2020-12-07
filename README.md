@@ -8,7 +8,7 @@ Goals:
 
 Features:
 - SPI master / slave support
-- all 4 Modes (CPOL/CHPA)
+- all 4 modes (CPOL/CHPA)
 - inverted data order support
 - custom word size support
 
