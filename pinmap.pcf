@@ -1,0 +1,24 @@
+# 35 = Pin 13
+set_io WF_CLK    35
+
+# 34 = Pin 12
+set_io SIGNAL_CLOCK_OUT 34
+
+# 27 = Pin 11
+set_io SIGNAL_SS_OUT 27
+
+# 28 = Pin 10
+set_io SIGNAL_DATA_OUT 28
+
+
+# 44 = Pin 17
+set_io SIGNAL_CLOCK_IN 44
+
+# 46 = Pin 18
+set_io SIGNAL_SS_IN 46
+
+# 47 = Pin 19
+set_io SIGNAL_DATA_IN 47
+
+# 22 = Pin 2
+set_io TEST_SIGNAL_OUT 2
